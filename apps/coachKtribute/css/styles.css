@@ -1,0 +1,14 @@
+body {
+  margin-top: 60px;
+  background: black;
+}
+
+h1 {
+
+font-size: 1.125em arial; /* 18px :  16px = 1.2em*/
+
+}
+
+footer p {
+  color: white;
+}
